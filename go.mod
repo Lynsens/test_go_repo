@@ -1,4 +1,4 @@
-module github.com/ankorstore/yokai-grpc-template
+module github.com/lynsens/test_go_repo
 
 go 1.22
 

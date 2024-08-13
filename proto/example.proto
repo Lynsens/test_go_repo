@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package example;
 
-option go_package = "github.com/ankorstore/yokai-grpc-template/proto";
+option go_package = "github.com/lynsens/test_go_repo/proto";
 
 message ExampleRequest {
   string text = 1;

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ankorstore/yokai-grpc-template/proto"
+	"github.com/lynsens/test_go_repo/proto"
 	"github.com/ankorstore/yokai/config"
 	"github.com/ankorstore/yokai/log"
 	"github.com/ankorstore/yokai/trace"

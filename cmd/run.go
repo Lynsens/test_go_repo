@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/ankorstore/yokai-grpc-template/internal"
+	"github.com/lynsens/test_go_repo/internal"
 	"github.com/spf13/cobra"
 )
 

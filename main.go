@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ankorstore/yokai-grpc-template/cmd"
+	"github.com/lynsens/test_go_repo/cmd"
 )
 
 func main() {

@@ -7,8 +7,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/ankorstore/yokai-grpc-template/internal"
-	"github.com/ankorstore/yokai-grpc-template/proto"
+	"github.com/lynsens/test_go_repo/internal"
+	"github.com/lynsens/test_go_repo/proto"
 	"github.com/ankorstore/yokai/log/logtest"
 	"github.com/ankorstore/yokai/trace/tracetest"
 	"github.com/stretchr/testify/assert"

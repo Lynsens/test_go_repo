@@ -1,8 +1,8 @@
 package internal
 
 import (
-	"github.com/ankorstore/yokai-grpc-template/internal/service"
-	"github.com/ankorstore/yokai-grpc-template/proto"
+	"github.com/lynsens/test_go_repo/internal/service"
+	"github.com/lynsens/test_go_repo/proto"
 	"github.com/ankorstore/yokai/fxgrpcserver"
 	"go.uber.org/fx"
 )
